@@ -19,6 +19,4 @@ public class MainActivity extends AppCompatActivity {
     //test 3rd commit
 }
 
-//no
-
 //asdf
