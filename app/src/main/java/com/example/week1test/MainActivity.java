@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
     //hello
     //test from junyoung
-    //test second commit
+    //test second commit.
+    //test 3rd commit
 }
