@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">week1test</string>
+    <string name="tab_content_1">TAB CONTENT 1</string>
+    <string name="tab_content_2">TAB CONTENT 2</string>
+    <string name="tab_content_3">TAB CONTENT 3</string>
 </resources>
