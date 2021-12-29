@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         ts2.setContent(R.id.Album) ;
         ts2.setIndicator("Album") ;
         tabHost1.addTab(ts2) ;
-
+//asdf
         // 세 번째 Tab. (탭 표시 텍스트:"TAB 3"), (페이지 뷰:"content3")
         TabHost.TabSpec ts3 = tabHost1.newTabSpec("Tab Spec 3") ;
         ts3.setContent(R.id.Free) ;
