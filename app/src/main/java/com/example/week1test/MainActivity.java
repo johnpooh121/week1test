@@ -34,3 +34,4 @@ public class MainActivity extends AppCompatActivity {
         tabHost1.addTab(ts3) ;
     }
 }
+
